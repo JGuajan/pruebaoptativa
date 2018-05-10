@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>CRUD MVC PDO</title>
+		<title>CRUD MVC JORGE GUAJAN</title>
 	</head>
     <body>
     <div>
